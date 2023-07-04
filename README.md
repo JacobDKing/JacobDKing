@@ -7,6 +7,7 @@
 
 - <b>Coding Based Projects</b>
   - [Apply Filters to SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
+  - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
   
 <h2>📃 Certifications</h2>
 
