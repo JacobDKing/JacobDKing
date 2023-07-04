@@ -1,6 +1,13 @@
 
 <h1>Hi, I'm Jake! <br/><a href="https://www.linkedin.com/in/jacob-k-4a8396177/">Cybersecurity Professional</a>
 
+
+ 
+<h2>🔒 Cyber Security Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 <h2>📃 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/TCVUUELKAAVX)
@@ -12,13 +19,6 @@
     - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/certificate/Z4M5N2WFPD5J)
     - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/M8DLLKM234DS)
     - [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/certificate/ZJP4PFCNBS93)
- 
-<h2>🔒 Cyber Security Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  
-
 
 <h2> 🤳 Connect with me:</h2>
 
