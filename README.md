@@ -5,13 +5,13 @@
  
 <h2>🔒 Cyber Security Projects:</h2>
 
-  - <b>Coding Projects</b>
+  - <b>Coding Projects:</b>
     - [Apply Filters to SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
     - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
     
     <br />
   
-  - <b>Security Operations Projects</b>
+  - <b>Security Operations Projects:</b>
     - [Conduct a Security Audit](https://github.com/JacobDKing/InternalAuditTest)
     
     <br />
