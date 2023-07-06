@@ -5,10 +5,18 @@
  
 <h2>🔒 Cyber Security Projects:</h2>
 
-- <b>Coding Based Projects</b>
-  - [Apply Filters to SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
-  - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
+  - <b>Coding Projects</b>
+    - [Apply Filters to SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
+    - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
+    
+    <br />
   
+  - <b>Security Operations Projects</b>
+    - [Conduct a Security Audit](https://github.com/JacobDKing/InternalAuditTest)
+    
+    <br />
+    <br />
+    
 <h2>📃 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/TCVUUELKAAVX)
@@ -20,7 +28,10 @@
     - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/certificate/Z4M5N2WFPD5J)
     - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/M8DLLKM234DS)
     - [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/certificate/ZJP4PFCNBS93)
-
+  
+  <br />
+  <br />
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="" alt="JacobKing | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
