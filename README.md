@@ -9,7 +9,7 @@
     - [Apply Filters to SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
     - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
     - [Update a File Through a Python Algorithm](https://github.com/JacobDKing/UpdatePythonFile)
-    - [Analyze a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
+    - 
     
     <br />
   
@@ -17,6 +17,7 @@
     - [Conduct a Security Audit](https://github.com/JacobDKing/InternalAuditTest)
     - [Using NIST CSF to Respond to Security Incident](https://github.com/JacobDKing/NISTcsfIncidentResponse)
     - [Documenting Events with Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal)
+    - [Analyze a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
     
     <br />
     <br />
