@@ -9,6 +9,7 @@
     - [Apply Filters to SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
     - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
     - [Update a File Through a Python Algorithm](https://github.com/JacobDKing/UpdatePythonFile)
+    - [Analyze a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
     
     <br />
   
