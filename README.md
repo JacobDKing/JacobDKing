@@ -15,6 +15,7 @@
   - <b>Security Operations Projects:</b>
     - [Conduct a Security Audit](https://github.com/JacobDKing/InternalAuditTest)
     - [Using NIST CSF to Respond to Security Incident](https://github.com/JacobDKing/NISTcsfIncidentResponse)
+    - [Documenting Events with Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal)
     
     <br />
     <br />
