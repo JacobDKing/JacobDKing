@@ -9,7 +9,9 @@
     - [Apply Filters to SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
     - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
     - [Update a File Through a Python Algorithm](https://github.com/JacobDKing/UpdatePythonFile)
-    - [Capture a Packet Using TCPDump](https://github.com/JacobDKing/CapturePacketWithTcpdump) 
+    - [Capture a Packet Using TCPDump](https://github.com/JacobDKing/CapturePacketWithTcpdump)
+    - [Explore Signatures & Logs With Suricata](https://github.com/JacobDKing/ExploreSignaturesAndLogsWithSuricata)
+
     
     <br />
   
@@ -19,7 +21,6 @@
     - [Documenting Events with Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal)
     - [Analyze a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
     - [Investigating a Suspicious File Hash](https://github.com/JacobDKing/InvestigatingSuspiciousFileHash)
-    - [Explore Signatures & Logs With Suricata]()
     - [Perform a Query With Splunk]()
     - [Perform a Query With Chronicle]()
     
