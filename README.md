@@ -38,6 +38,14 @@
     - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/certificate/Z4M5N2WFPD5J)
     - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/M8DLLKM234DS)
     - [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/certificate/ZJP4PFCNBS93)
+
+<br />
+
+- CompTIA Security+* (In Progress)
+
+<br />
+
+- Microsoft Certified: Azure Fundamentals* (In Progress) 
   
   <br />
   <br />
