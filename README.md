@@ -22,7 +22,7 @@
     - [Analyze a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
     - [Investigating a Suspicious File Hash](https://github.com/JacobDKing/InvestigatingSuspiciousFileHash)
     - [Perform a Query With Splunk]()
-    - [Perform a Query With Chronicle]()
+    - [Perform a Query With Chronicle](https://github.com/JacobDKing/QueryWithChronicle)
     
     <br />
     <br />
