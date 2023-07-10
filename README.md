@@ -21,7 +21,7 @@
     - [Documenting Events with Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal)
     - [Analyze a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
     - [Investigating a Suspicious File Hash](https://github.com/JacobDKing/InvestigatingSuspiciousFileHash)
-    - [Perform a Query With Splunk]()
+    - [Perform a Query With Splunk](https://github.com/JacobDKing/QueryWithSplunk)
     - [Perform a Query With Chronicle](https://github.com/JacobDKing/QueryWithChronicle)
     
     <br />
