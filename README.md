@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Jake! <br/><a href="https://www.linkedin.com/in/jacob-k-4a8396177/">Cybersecurity Professional</a>
+<h1>Hi, I'm Jake! <br/><a href="https://www.linkedin.com/in/jacob-k-4a8396177/">Cybersecurity & IT Professional</a>
 
 
  
