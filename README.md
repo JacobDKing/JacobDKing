@@ -41,6 +41,10 @@
 
 <br />
 
+- [ISC2 CC](https://cpe.isc2.org/digitalcert)
+
+<br />
+
 - CompTIA Security+* (In Progress)
 
 <br />
