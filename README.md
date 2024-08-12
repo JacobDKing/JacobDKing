@@ -50,10 +50,18 @@
 
 <br />
 
-- Microsoft Certified: Azure Fundamentals* (In Progress) 
+- Microsoft Azure Certified: AZ-900 (*In Progress*) 
   
-  <br />
-  <br />
+<br />
+
+- CCNA (*In Progress*)
+
+<br />
+
+- CySA+ (*In Progress*)
+
+<br />
+<br />
   
 <h2> 🤳 Connect with me:</h2>
 
