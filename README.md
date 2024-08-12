@@ -29,6 +29,11 @@
     
 <h2>📃 Certifications</h2>
 
+
+- [CompTIA Security+](file:///C:/Users/Jacob/Downloads/CompTIA%20Security+%20ce%20certificate.pdf)
+
+<br />
+
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/TCVUUELKAAVX)
     - [Foundation of Cybersecurity](https://coursera-certificate-images.s3.amazonaws.com/NBFRTYXU9XV5)
     - [Play it Safe: Manage Security Risk](https://coursera-certificate-images.s3.amazonaws.com/3W2VG74BFE76)
@@ -42,10 +47,6 @@
 <br />
 
 - [ISC2 CC](https://cpe.isc2.org/digitalcert)
-
-<br />
-
-- CompTIA Security+* (In Progress)
 
 <br />
 
