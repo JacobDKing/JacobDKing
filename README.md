@@ -30,7 +30,7 @@
 <h2>📃 Certifications</h2>
 
 
-- [CompTIA Security+](file:///C:/Users/Jacob/Downloads/CompTIA%20Security+%20ce%20certificate.pdf)
+- [CompTIA Security+](https://www.credly.com/badges/eedb4383-fc9d-46e7-b308-ec59273afa99)
 
 <br />
 
