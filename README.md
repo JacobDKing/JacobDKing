@@ -8,7 +8,7 @@
   - <b>Coding Projects:</b>
     - [Filtering SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
     - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
-    - [Automating Access-List with Python](https://github.com/JacobDKing/UpdatePythonFile)
+    - [Automating Access-List with Python](https://github.com/JacobDKing/AutomatedAccessList-Python)
     - [Capture a Packet with TCPDump](https://github.com/JacobDKing/CapturePacketWithTcpdump)
     - [Explore Signatures & Logs With Suricata](https://github.com/JacobDKing/ExploreSignaturesAndLogsWithSuricata)
 
