@@ -50,7 +50,7 @@
 
 <br />
 
-- Microsoft Azure Certified: AZ-900 (*In Progress*) 
+- [Microsoft Azure Certified: AZ-900](https://learn.microsoft.com/en-us/users/jacobking-7440/credentials/a2504f8d7b5644cb) 
   
 <br />
 
