@@ -9,7 +9,7 @@
     - [Filtering SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
     - [Linux File Directory Administration](https://github.com/JacobDKing/LinuxDirectoryAdministration)
     - [Automating Access Control with Python](https://github.com/JacobDKing/AutomatedAccessList-Python)
-    - [Packet-Capture with TCPDump](https://github.com/JacobDKing/CapturePacketWithTcpdump)
+    - [Packet Capture with TCPDump](https://github.com/JacobDKing/PacketCaptureWithTcpdump)
     - [Explore Signatures & Logs With Suricata](https://github.com/JacobDKing/ExploreSignaturesAndLogsWithSuricata)
 
     
