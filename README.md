@@ -6,23 +6,23 @@
 <h2>🔒 Cyber Security Projects:</h2>
 
   - <b>Coding Projects:</b>
-    - [Apply Filters to SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
+    - [Filtering SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
     - [File Permissions in Linux](https://github.com/JacobDKing/FilePermissionsLinux)
-    - [Update a File Through a Python Algorithm](https://github.com/JacobDKing/UpdatePythonFile)
-    - [Capture a Packet Using TCPDump](https://github.com/JacobDKing/CapturePacketWithTcpdump)
+    - [Automating Access-List with Python](https://github.com/JacobDKing/UpdatePythonFile)
+    - [Capture a Packet with TCPDump](https://github.com/JacobDKing/CapturePacketWithTcpdump)
     - [Explore Signatures & Logs With Suricata](https://github.com/JacobDKing/ExploreSignaturesAndLogsWithSuricata)
 
     
     <br />
   
   - <b>Security Operations Projects:</b>
-    - [Conduct a Security Audit](https://github.com/JacobDKing/InternalAuditTest)
+    - [Conducting a Security Audit](https://github.com/JacobDKing/InternalAuditTest)
     - [Using NIST CSF to Respond to Security Incident](https://github.com/JacobDKing/NISTcsfIncidentResponse)
     - [Documenting Events with Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal)
-    - [Analyze a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
-    - [Investigating a Suspicious File Hash](https://github.com/JacobDKing/InvestigatingSuspiciousFileHash)
-    - [Perform a Query With Splunk](https://github.com/JacobDKing/QueryWithSplunk)
-    - [Perform a Query With Chronicle](https://github.com/JacobDKing/QueryWithChronicle)
+    - [Analyzing a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
+    - [Suspicious File Hash Investigation](https://github.com/JacobDKing/InvestigatingSuspiciousFileHash)
+    - [Performing a Query With Splunk](https://github.com/JacobDKing/QueryWithSplunk)
+    - [Performing a Query With Chronicle](https://github.com/JacobDKing/QueryWithChronicle)
     
     <br />
     <br />
