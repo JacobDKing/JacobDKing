@@ -7,22 +7,22 @@
 
   - <b>Coding Projects:</b>
     - [Filtering SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
-    - [Linux File Directory Administration](https://github.com/JacobDKing/LinuxDirectoryAdministration)
-    - [Automating Access Control with Python](https://github.com/JacobDKing/AutomatedAccessList-Python)
     - [Packet Capture with TCPDump](https://github.com/JacobDKing/PacketCaptureWithTcpdump)
-    - [Explore Signatures & Logs With Suricata](https://github.com/JacobDKing/ExploreSignaturesAndLogsWithSuricata)
+    - [Linux File Directory Administration](https://github.com/JacobDKing/LinuxDirectoryAdministration)
+    - [Signature & Log Analysis With Suricata](https://github.com/JacobDKing/ExploreSignaturesAndLogsWithSuricata)
+    - [Automating Access Control with Python](https://github.com/JacobDKing/AutomatedAccessList-Python)
 
     
     <br />
   
   - <b>Security Operations Projects:</b>
-    - [Conducting a Security Audit](https://github.com/JacobDKing/InternalAuditTest)
+    - [Event Documentating with Incident Handler Journal](https://github.com/JacobDKing/IncidentHandlersJournal)
     - [Using NIST CSF to Respond to Security Incident](https://github.com/JacobDKing/NISTcsfIncidentResponse)
-    - [Documenting Events with Incident Handler's Journal](https://github.com/JacobDKing/IncidentHandlersJournal)
     - [Analyzing a Packet Capture with Wireshark](https://github.com/JacobDKing/AnalyzePacketWithWireshark)
     - [Suspicious File Hash Investigation](https://github.com/JacobDKing/InvestigatingSuspiciousFileHash)
-    - [Performing a Query With Splunk](https://github.com/JacobDKing/QueryWithSplunk)
-    - [Performing a Query With Chronicle](https://github.com/JacobDKing/QueryWithChronicle)
+    - [Conducting Mock Security Audit](https://github.com/JacobDKing/InternalAuditTest)
+    - [Perform Query With Chronicle](https://github.com/JacobDKing/QueryWithChronicle)
+    - [Perform Query With Splunk](https://github.com/JacobDKing/QueryWithSplunk)
     
     <br />
     <br />
