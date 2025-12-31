@@ -3,7 +3,7 @@
 
 
  
-<h2>🔒 Cyber Security Projects:</h2>
+<h2>🔒 Project Portfolio:</h2>
 
   - <b>Coding Projects:</b>
     - [Filtering SQL Queries](https://github.com/JacobDKing/ApplyFiltersSQL)
@@ -12,7 +12,10 @@
     - [Signature & Log Analysis With Suricata](https://github.com/JacobDKing/ExploreSignaturesAndLogsWithSuricata)
     - [Automating Access Control with Python](https://github.com/JacobDKing/AutomatedAccessList-Python)
 
-    
+        <br />
+
+     - [Creating a Jenkins CI/CD Pipeline](https://github.com/JacobDKing/Creating-a-Jenkins-CI-CD-Pipeline) (*In Progress*)
+       
     <br />
   
   - <b>Security Operations Projects:</b>
@@ -23,7 +26,8 @@
     - [Conducting Mock Security Audit](https://github.com/JacobDKing/InternalAuditTest)
     - [Perform Query With Chronicle](https://github.com/JacobDKing/QueryWithChronicle)
     - [Perform Query With Splunk](https://github.com/JacobDKing/QueryWithSplunk)
-    
+
+
     <br />
     <br />
     
