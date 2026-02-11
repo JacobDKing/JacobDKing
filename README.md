@@ -33,6 +33,9 @@
     
 <h2>📃 Certifications</h2>
 
+- [CompTIA CySA+](https://www.credly.com/badges/5a976df4-2410-4413-aac6-cbbcb4615789/public_url)
+
+<br />
 
 - [CompTIA Security+](https://www.credly.com/badges/eedb4383-fc9d-46e7-b308-ec59273afa99)
 
@@ -60,9 +63,6 @@
 
 - CCNA (*In Progress*)
 
-<br />
-
-- CySA+ (*In Progress*)
 
 <br />
 <br />
